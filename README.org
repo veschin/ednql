@@ -1,6 +1,6 @@
 #+title: Readme
 
-** SQL features [0%]
+** SQL features [33%]
 - [ ] operator [0%]
   - [ ] DDL
   - [ ] DML
@@ -9,11 +9,10 @@
 - [ ] function
 - [ ] instructions
 - [ ] raw
-- [ ] parameterized query (\? symbol)
-  - [ ] any num "string"
-        or 'symbol must be \? symbol
-- [ ] edn to sql types conversions
-  - [ ] nil to null
+- [X] parameterized query (\? symbol)
+  - [X] any num "string" or 'symbol must be \? symbol
+- [X] edn to sql types conversions
+  - [X] nil to null
 
 ** PostgreSQL features
 - [ ] JSONB
