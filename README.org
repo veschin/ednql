@@ -1,0 +1,19 @@
+#+title: Readme
+
+** SQL features [0%]
+- [ ] operator [0%]
+  - [ ] DDL
+  - [ ] DML
+  - [ ] DCL
+  - [ ] TCL
+- [ ] function
+- [ ] instructions
+- [ ] raw
+- [ ] parameterized query (\? symbol)
+  - [ ] any num "string"
+        or 'symbol must be \? symbol
+- [ ] edn to sql types conversions
+  - [ ] nil to null
+
+** PostgreSQL features
+- [ ] JSONB
